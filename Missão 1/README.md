@@ -1,6 +1,7 @@
 # Relatório Missão 1
 
 Nessa missão aprendemos sobre:
+
 - Circuitos eletrônicos
   - LEDs
   - Resistores
@@ -8,6 +9,7 @@ Nessa missão aprendemos sobre:
 - Tinkercard
 
 A partir dos materiais e exercícios propostos foi possível aprender a:
+
 - Escolher um resistor correto para seu LED
 - Programar um Arduíno
 - Prototipar com o Tinkercard
@@ -17,9 +19,11 @@ Sabendo sobre a escassez e custo de recursos na vida real, aprender sobre protot
 ![Circuito Final](/Missão%201/Images/Print_Tinkercard.png)
 
 ## Cálculo do Resistor
+
 R = $\frac{ - V_{LED}}{I}
 
 Onde:
+
 - R é a resistência necessária em ohms(Ω)
 - \{V_{cc}​} é a tensão de alimentação do circuito em volts (V)
 - \{V_{LED}}​ é a queda de tensão direta do LED em volts (V)
